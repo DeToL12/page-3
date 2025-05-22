@@ -1,0 +1,8 @@
+/*!
+ * @alkami/iris-vue v1.27.0
+ * Vue components for the Iris Design System
+ *
+ * Copyright (c) 2022 Alkami Technology
+ * Licensed under the BSD-3-Clause license. (https://iris.alkamitech.com/cdn/iris-vue/latest/LICENSE)
+ */
+html,body{background-color:rgba(0,0,0,0) !important}input[class*=irisv-][type=radio],input[class*=irisv-][type=checkbox]{background:unset;line-height:unset;margin:0}input.irisv-textfield__input{border:none;border-radius:0;box-shadow:none;color:var(--colorPlatformGray900);float:none;margin:0;outline:none;padding:0;width:100%}input.irisv-textfield__input:focus{background-color:rgba(0,0,0,0);box-shadow:none !important}.irisv-selectable-tile input{background:unset}.irisv-avatar span.irisv-avatar__content__main-icon{display:flex !important}.irisv-avatar span.irisv-avatar__sub-icon{display:flex !important}.flash-banner.flash-banner--show.iris-notification{z-index:11000 !important}
